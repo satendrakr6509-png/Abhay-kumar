@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Master AI",
+  "description": "Take AI-generated and curated quizzes on any topic, game, app, or academic subject with streaks, daily challenges, leaderboards, and detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
